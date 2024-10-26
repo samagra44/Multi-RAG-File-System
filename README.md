@@ -38,8 +38,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/samagra44/Multi-RAG-File-System.git
+   cd Multi-RAG-File-System
    ```
 
 2. **Create a virtual environment** (optional but recommended):
@@ -94,10 +94,16 @@ The application includes error handling mechanisms to provide feedback to users.
 - **Error loading documents**: Indicates an issue during the document loading process, along with the specific error message.
 - **Error processing query**: Displayed when there is an issue generating a response to the user's question.
 
+## Output
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/27bff7f4-28c6-4429-b8ce-62d1c0c28b9f" width=700 height=300 alt="animated"/>
+</p>
+
 ## Acknowledgments
 
 - Thanks to the developers of Gradio, Llama Index, Groq, and Hugging Face for their amazing libraries and tools that made this project possible.
 
 ## Contact
 
-For any questions or inquiries, please reach out to [your-email@example.com].
+For any questions or inquiries, please reach out to [samagra183@gmail.com].
